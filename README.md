@@ -99,7 +99,7 @@ webpack.config.js
 We're breaking out all our source into subdirectories by _component_. This is a common pattern in modern front-end
 JS, and one that keep organization very logical and convenient as an app grows.
 
-* You'll want to `npm init` right away.
+* You'll want to `npm install` right away.
 
 ### Smart/Container vs Dumb/Presentational Components
 ####
